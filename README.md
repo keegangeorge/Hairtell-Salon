@@ -1,4 +1,6 @@
+
 # Hairtell-Salon
 Hairtell Salon customized website
 
-<img src="https://imgur.com/a/Qvy4h.png">
+Landing Page:
+<img src="https://imgur.com/CMnFWt4.png">
